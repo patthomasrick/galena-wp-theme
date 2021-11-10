@@ -8,11 +8,12 @@ services:
       - 8080:80
     environment:
       WORDPRESS_DB_HOST: db
-      WORDPRESS_DB_USER: admin
+      WORDPRESS_DB_USER: galena
       WORDPRESS_DB_PASSWORD: secret
       WORDPRESS_DB_NAME: galena
     volumes:
-      - wordpress:/var/www/html
+      - /tmp/galena/wordpress:/var/www/html
+      - .:/var/www/html/wp-content/themes/galena
 
   db:
     image: mysql:8
@@ -23,7 +24,7 @@ services:
       MYSQL_PASSWORD: secret
       MYSQL_RANDOM_ROOT_PASSWORD: "1"
     volumes:
-      - db:/var/lib/mysql
+      - /tmp/galena/db:/var/lib/mysql
 
 volumes:
   wordpress:
