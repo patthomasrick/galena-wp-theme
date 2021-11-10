@@ -55,6 +55,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 --------------------------------------------------------------*/
 
 @import "fonts/inter/inter.css";
+@import "fonts/robotoslab/robotoslab.css";
 
 /* Normalize
 --------------------------------------------- */
@@ -418,6 +419,8 @@ h4,
 h5,
 h6 {
   clear: both;
+  font-family: "Roboto Slab", "Times New Roman", Times, serif;
+  font-weight: 200;
 }
 
 p {
