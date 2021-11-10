@@ -1,4 +1,5 @@
 <?php
+
 /**
  * galena functions and definitions
  *
@@ -12,7 +13,7 @@ if (!defined("_S_VERSION")) {
     define("_S_VERSION", "1.0.0");
 }
 
-if (!function_exists("galena_setup")):
+if (!function_exists("galena_setup")) :
     /**
      * Sets up theme defaults and registers support for various WordPress features.
      *
@@ -20,8 +21,7 @@ if (!function_exists("galena_setup")):
      * runs before the init hook. The init hook is too late for some features, such
      * as indicating support for post thumbnails.
      */
-    function galena_setup()
-    {
+    function galena_setup() {
         /*
          * Make theme available for translation.
          * Translations can be filed in the /languages/ directory.
@@ -104,8 +104,7 @@ add_action("after_setup_theme", "galena_setup");
  *
  * @global int $content_width
  */
-function galena_content_width()
-{
+function galena_content_width() {
     $GLOBALS["content_width"] = apply_filters("galena_content_width", 640);
 }
 add_action("after_setup_theme", "galena_content_width", 0);
@@ -115,8 +114,7 @@ add_action("after_setup_theme", "galena_content_width", 0);
  *
  * @link https://developer.wordpress.org/themes/functionality/sidebars/#registering-a-sidebar
  */
-function galena_widgets_init()
-{
+function galena_widgets_init() {
     register_sidebar([
         "name" => esc_html__("Sidebar", "galena"),
         "id" => "sidebar-1",
@@ -132,8 +130,7 @@ add_action("widgets_init", "galena_widgets_init");
 /**
  * Enqueue scripts and styles.
  */
-function galena_scripts()
-{
+function galena_scripts() {
     wp_enqueue_style("galena-style", get_stylesheet_uri(), [], _S_VERSION);
     wp_style_add_data("galena-style", "rtl", "replace");
 
