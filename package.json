@@ -17,10 +17,12 @@
     "url": "https://github.com/Automattic/_s/issues"
   },
   "devDependencies": {
+    "@prettier/plugin-php": "^0.17.6",
     "@wordpress/scripts": "^12.1.0",
     "dir-archiver": "^1.1.1",
-    "sass": "^1.43.4",
-    "rtlcss": "^2.5.0"
+    "prettier": "^2.5.1",
+    "rtlcss": "^2.5.0",
+    "sass": "^1.43.4"
   },
   "rtlcssConfig": {
     "options": {
@@ -37,7 +39,8 @@
   },
   "scripts": {
     "watch": "sass sass/style.scss:style.scss --source-map -w",
-    "compile:css": "sass sass/style.scss:style.scss && stylelint '*.css' --fix || true && stylelint '*.css' --fix",
+    "compile:css": "sass sass/style.scss:style.css && stylelint '*.css' --fix || true && stylelint '*.css' --fix",
+    "compile:scss": "sass sass/style.scss:style.scss",
     "compile:rtl": "rtlcss style.css style-rtl.css",
     "lint:scss": "wp-scripts lint-style 'sass/**/*.scss'",
     "lint:js": "wp-scripts lint-js 'js/*.js'",
