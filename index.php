@@ -18,7 +18,7 @@ get_header(); ?>
 <main id="primary" class="site-main">
 	<div class="container">
 		<div class="columns">
-			<div class="column is-three-quarters">
+			<div class="column is-three-quarters content">
 				<?php if (have_posts()):
       if (is_home() && !is_front_page()): ?>
 						<header>
@@ -43,7 +43,7 @@ get_header(); ?>
       get_template_part("template-parts/content", "none");
     endif; ?>
 			</div>
-			<div class="column">
+			<div class="column content">
 				<?php get_sidebar(); ?>
 			</div>
 		</div>
