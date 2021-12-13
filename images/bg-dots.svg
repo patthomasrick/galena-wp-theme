@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="bg-dots.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.5803732"
+     inkscape:cx="468.24384"
+     inkscape:cy="487.2267"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="3829"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824"
+       dotted="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3645">
+      <stop
+         style="stop-color:#c7efcf;stop-opacity:0.5"
+         offset="0"
+         id="stop3641" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:0"
+         offset="1"
+         id="stop3643" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3645"
+       id="linearGradient3647"
+       x1="114.3"
+       y1="0"
+       x2="190.5"
+       y2="228.60001"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4591">
+      <g
+         id="g4689"
+         transform="scale(0.95833337,1)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4593"
+           cx="19.049999"
+           cy="19.049999"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4595"
+           cx="57.149998"
+           cy="19.049999"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4597"
+           cx="95.25"
+           cy="19.049999"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4599"
+           cx="19.049999"
+           cy="57.149998"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4601"
+           cx="57.149998"
+           cy="57.149998"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4603"
+           cx="95.25"
+           cy="57.149998"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4605"
+           cx="19.049999"
+           cy="95.25"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4607"
+           cx="19.049999"
+           cy="171.45"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4609"
+           cx="57.150005"
+           cy="171.45"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4611"
+           cx="95.250008"
+           cy="171.45"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4613"
+           cx="19.049999"
+           cy="209.55"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4615"
+           cx="57.150005"
+           cy="209.55"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4617"
+           cx="95.250008"
+           cy="209.55"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4619"
+           cx="133.35001"
+           cy="171.45"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4621"
+           cx="171.45"
+           cy="171.45"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4623"
+           cx="209.55"
+           cy="171.45"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4625"
+           cx="133.35001"
+           cy="209.55"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4627"
+           cx="171.45"
+           cy="209.55"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4629"
+           cx="209.55"
+           cy="209.55"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4631"
+           cx="247.64999"
+           cy="171.45"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4633"
+           cx="285.75"
+           cy="171.45"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4635"
+           cx="247.64999"
+           cy="209.55"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4637"
+           cx="285.75"
+           cy="209.55"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4639"
+           cx="57.149998"
+           cy="95.25"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4641"
+           cx="95.25"
+           cy="95.25"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4643"
+           cx="19.049999"
+           cy="133.35001"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4645"
+           cx="57.149998"
+           cy="133.35001"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4647"
+           cx="95.25"
+           cy="133.35001"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4649"
+           cx="133.35001"
+           cy="19.049999"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4651"
+           cx="171.45"
+           cy="19.049999"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4653"
+           cx="209.55"
+           cy="19.049999"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4655"
+           cx="133.35001"
+           cy="57.149998"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4657"
+           cx="171.45"
+           cy="57.149998"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4659"
+           cx="209.55"
+           cy="57.149998"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4661"
+           cx="133.35001"
+           cy="95.25"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4663"
+           cx="171.45"
+           cy="95.25"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4665"
+           cx="209.55"
+           cy="95.25"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4667"
+           cx="133.35001"
+           cy="133.35001"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4669"
+           cx="171.45"
+           cy="133.35001"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4671"
+           cx="209.55"
+           cy="133.35001"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4673"
+           cx="247.64999"
+           cy="19.049999"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4675"
+           cx="285.75"
+           cy="19.049999"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4677"
+           cx="247.64999"
+           cy="57.150002"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4679"
+           cx="285.75"
+           cy="57.150002"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4681"
+           cx="247.64999"
+           cy="95.250008"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4683"
+           cx="285.75"
+           cy="95.250008"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4685"
+           cx="247.64999"
+           cy="133.35001"
+           r="6.3499999" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.54"
+           id="circle4687"
+           cx="285.75"
+           cy="133.35001"
+           r="6.3499999" />
+      </g>
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#fe5f55;fill-opacity:1;stroke:none;stroke-width:2.61364"
+       id="rect1792-4"
+       width="304.79999"
+       height="228.60001"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Dots">
+    <rect
+       style="fill:url(#linearGradient3647);fill-opacity:1;stroke:none;stroke-width:2.61364"
+       id="rect1792"
+       width="304.79999"
+       height="228.60001"
+       x="0"
+       y="0"
+       clip-path="url(#clipPath4591)" />
+  </g>
+</svg>

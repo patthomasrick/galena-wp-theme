@@ -51,7 +51,7 @@
   ); ?></button> -->
 	</nav><!-- #site-navigation -->
 
-	<header id="masthead" class="site-header hero is-large is-warning has-text-right">
+	<header id="masthead" class="site-header hero is-large is-warning bg-dots has-text-right">
 		<div class="hero-body site-branding">
 			<?php
    the_custom_logo();

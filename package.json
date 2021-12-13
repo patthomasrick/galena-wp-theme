@@ -38,7 +38,7 @@
     "map": false
   },
   "scripts": {
-    "watch": "sass sass/style.scss:style.scss --source-map -w",
+    "watch": "sass sass/style.scss:style.css --source-map -w",
     "compile:css": "sass sass/style.scss:style.css && stylelint '*.css' --fix || true && stylelint '*.css' --fix",
     "compile:scss": "sass sass/style.scss:style.scss",
     "compile:rtl": "rtlcss style.css style-rtl.css",

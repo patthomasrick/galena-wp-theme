@@ -108,13 +108,35 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 
 // Bulma
 
-$family-sans-serif: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+$family-sans-serif: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
+  Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 $family-serif: "Roboto Slab", Cambria, Cochin, Georgia, Times, Times New Roman, serif;
 
-$light: #eef5db;
-$primary: #c7efcf;
-$warning: #fe5f55;
-$dark: #333745;
-$danger: #e63462;
+// https://coolors.co/fe5f55-c7efcf-333745-e63462-eef5db
+$orange-red-crayola: #fe5f55ff;
+$aero-blue: #c7efcfff;
+$gunmetal: #333745ff;
+$paradise-pink: #e63462ff;
+$beige: #eef5dbff;
+
+$light: $beige;
+$primary: $aero-blue;
+$warning: $orange-red-crayola;
+$dark: $gunmetal;
+$danger: $paradise-pink;
 
 @import "bulma/bulma.sass";
+
+body {
+  background-color: $beige;
+}
+
+// .bg-dots {
+//   background-image: url("images/bg-dots.jpeg");
+//   background-repeat: no-repeat;
+//   background-size: cover;
+// }
+
+.container p {
+  margin-bottom: 1em;
+}

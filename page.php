@@ -18,7 +18,7 @@ get_header(); ?>
 <main id="primary" class="site-main">
   <div class="container">
     <div class="columns">
-      <div class="column">
+			<div class="column is-three-quarters">
         <?php while (have_posts()) {
           the_post();
 
