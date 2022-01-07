@@ -103,8 +103,8 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 
 // Fonts
 
-@import "../fonts/inter/inter.css";
-@import "../fonts/robotoslab/robotoslab.css";
+@import "fonts/inter/inter.css";
+@import "fonts/robotoslab/robotoslab.css";
 
 // Bulma
 
@@ -140,3 +140,79 @@ body {
 // .container p {
 //   margin-bottom: 1em;
 // }
+
+// Sections and article spacing.
+
+.content p:not(:last-child),
+.content dl:not(:last-child),
+.content ol:not(:last-child),
+.content ul:not(:last-child),
+.content blockquote:not(:last-child),
+.content pre:not(:last-child),
+.content table:not(:last-child) {
+  margin-bottom: 2em;
+}
+
+.widget {
+  margin-bottom: 2em;
+}
+
+// Search
+
+form[role="search"] input[type="search"] {
+  @extend .input;
+  @extend .control;
+}
+
+form[role="search"] input[type="submit"],
+form[role="search"] button[type="submit"] {
+  @extend .button;
+  @extend .is-link;
+}
+
+// Comment form
+
+.required {
+  color: $warning;
+}
+
+.comment-form-comment,
+.comment-form-author,
+.comment-form-email,
+.comment-form-url {
+  @extend .field;
+}
+
+.comment-form-comment label,
+.comment-form-author label,
+.comment-form-email label,
+.comment-form-url label {
+  @extend .label;
+}
+
+.comment-form-author input,
+.comment-form-email input,
+.comment-form-url input {
+  @extend .input;
+  @extend .control;
+}
+
+.comment-form-comment textarea {
+  @extend .input;
+  @extend .textarea;
+}
+
+.comment-form-cookies-consent label,
+.comment-cookies-consent input {
+  @extend .checkbox;
+}
+
+.form-submit {
+  @extend .field;
+  @extend .control;
+}
+
+.form-submit input[type="submit"] {
+  @extend .button;
+  @extend .is-link;
+}
